@@ -1,5 +1,5 @@
 package go_test_module
 
 func SayHello(name string) string {
-	return "Hello " + name
+	return "Hello " + name + " my name is Pieter!!"
 }
